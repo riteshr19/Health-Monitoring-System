@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="AppTheme">
+        <attr name="textAppearanceFinish" format="reference" />
+    </declare-styleable>
+    
+
+</resources>
